@@ -1,0 +1,5 @@
+# Redirect rules for SPA
+/*    /index.html   200
+
+# Redirect old URLs if needed
+# /old-page    /new-page    301
